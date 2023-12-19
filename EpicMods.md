@@ -3,7 +3,6 @@
 1: Login to Iready
 2: Open a lesson.
 3: Execute the following code, either by opening the developer console (F12) or creating a bookmarklet:**
-# EpicMods!
 ## Working i-Ready haxsss
 <h2><a href="[https://discord.gg/zPBkB9cUUZ]([https://discord.gg/nQmQWzqNBJ](https://discord.gg/zPBkB9cUUZ))">Join Discord Server</a></h2>
 <h3> Developed by EpicMods Team </h3>
