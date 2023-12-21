@@ -1,7 +1,7 @@
 
 ## Working i-Ready haxsss
 Developed by EpicMods Team 
-https://discord.gg/zPBkB9cUUZ  Join our Discord Server.
+https://discord.gg/Cs6nMBtNSS  Join our Discord Server.
 
 **How to use
 1: Login to Iready
