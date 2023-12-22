@@ -8,6 +8,7 @@ https://discord.gg/Cs6nMBtNSS  Join our Discord Server.
 2: Open a lesson.
 3: Execute the following code, either by opening the developer console (F12) or creating a bookmarklet:**
 
+![Alt Text](https://cdn.discordapp.com/attachments/1120085396693463141/1187550091846897795/screen-capture_1.gif)
 <img src="https://cdn.discordapp.com/attachments/1120085396693463141/1187550091846897795/screen-capture_1.gif" alt="Alt Text" width="500"/>
 
 ```
